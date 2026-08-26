@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/HTML.png?raw=true",
+    "text": "HTML",
+    "progress": "95%"
+  },
+  {
+    "id": 2,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/CSS.png?raw=true",
+    "text": "CSS",
+    "progress": "90%"
+  },
+  {
+    "id": 3,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/JS.png?raw=true",
+    "text": "JS",
+    "progress": "85%"
+  },
+  {
+    "id": 4,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/jQuery.png?raw=true",
+    "text": "jQuery",
+    "progress": "85%"
+  }
+]

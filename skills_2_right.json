@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/React.png?raw=true",
+    "text": "React",
+    "progress": "90%"
+  },
+  {
+    "id": 6,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/PugJs.png?raw=true",
+    "text": "PugJs",
+    "progress": "90%"
+  },
+  {
+    "id": 7,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/SASS.png?raw=true",
+    "text": "SASS",
+    "progress": "90%"
+  },
+  {
+    "id": 8,
+    "src": "https://github.com/El-Bssawy/Portfolio_Files/blob/main/Python.png?raw=true",
+    "text": "Python",
+    "progress": "85%"
+  }
+]
